@@ -5,5 +5,6 @@
 </h2>
 
 <h3>
-  this repository was private so, file naming and other stuff may seems a little confusing!
+  this repository was private so, file naming and other stuff may seems a little confusing! <br/>
+  for example, testnobodypythpnbot is bot core
 </h3>
